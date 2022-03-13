@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Sporting for LIFE"
+rootProject.name = "Sporting For LIFE"
 include ':app'
